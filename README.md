@@ -5,6 +5,6 @@
 
 ---
 
-## FINALS HANDS-ON QUIZ #3: Task Management System
+## HANDS-ON QUIZ #3: Task Management System
 🔗 [Open Project]()
 
